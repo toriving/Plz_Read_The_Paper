@@ -184,6 +184,6 @@ Temporary Items
 .idea/
 .vscode/
 .ipynb_checkpoints/
-.DS_Store
+*.DS_Store
 .DS_Store*/
 gpt_prepro/
